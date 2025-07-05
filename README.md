@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chanchal's Closet - Complete E-Commerce Platform
 
 A production-ready Meesho-style online clothing store built with React.js, Node.js, Express, and MongoDB. Features modern UI, admin dashboard, QR-based UPI payments, order tracking, and comprehensive management system.
@@ -214,3 +215,6 @@ For support and questions:
 ---
 
 Built with ❤️ for small business owners who want to sell online with style!
+=======
+# my-shopify-project
+>>>>>>> 8d97b10eb378ad2ab1a9884c6b714b82bf41339a
